@@ -1,2 +1,2 @@
-# escape60
+# The Final 60
 MyFirstGame

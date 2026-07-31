@@ -1,2 +1,2 @@
 # escape60
-MyFirstGane
+MyFirstGame
